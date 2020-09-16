@@ -1,0 +1,25 @@
+body {
+    background-color: beige;
+    color: black;
+}
+
+table {
+    text-align: center;
+    color:red;
+    background-color: khaki;
+    border-collapse: collapse;
+}
+
+td, th {
+    border: 1px solid black;
+    padding: 7px;
+    width: 200px;
+    border-collapse: collapse;
+}
+
+table th:hover{
+    background-color: sandybrown;
+}
+table td:hover{
+    background-color: sandybrown;
+}
